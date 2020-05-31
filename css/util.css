@@ -2350,6 +2350,7 @@
 .bgblack {background-color: black;}
 .bgAmarelo{background-color: rgb(219, 205, 45);}
 .bgAmarelo2{background-color: #CDBF1F;}
+.bgAmarelo3{background-color: #F2F5A9;}
 .bgFoto1{background-image: url('/../images/Home/BannerPaoMel.jpg');}
 
 
@@ -2383,7 +2384,7 @@
 /* ------------------------------------ */
 .hov-img-zoom {
 	display: block;
-	overflow: hidden;
+	/* overflow: hidden; */
 }
 .hov-img-zoom img{
 	width: 100%;
@@ -3032,6 +3033,13 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	text-transform: uppercase;
 }
 
+.s-textTimes{
+	font-family:'Times New Roman';
+	font-size: 15px;
+	color: #111111;
+	text-transform: uppercase;
+	
+}
 .s-text3 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;

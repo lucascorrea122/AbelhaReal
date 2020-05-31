@@ -115,7 +115,7 @@ a:focus {
 
 a:hover {
 	text-decoration: none;
-	color: #e65540;
+	color: red;
 }
 
 /* ------------------------------------ */
@@ -638,7 +638,7 @@ iframe {
 }
 
 .logo img {
-  max-height: 27px;
+  max-height: 70px;
 }
 
 
@@ -1173,7 +1173,7 @@ li.sale-noti > a {
 }
 
 .logo2 img {
-  max-height: 27px;
+  max-height: 100px;
 }
 
 .fixed-header2 {
@@ -1637,6 +1637,11 @@ li.sale-noti > a {
 /*[ Block2 ]
 ///////////////////////////////////////////////////////////
 */
+.block2-img{
+  border-radius: 10px;
+  
+}
+
 .block2-labelsale::before,
 .block2-labelnew::before 
 {
