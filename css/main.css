@@ -1637,10 +1637,22 @@ li.sale-noti > a {
 /*[ Block2 ]
 ///////////////////////////////////////////////////////////
 */
+
+
 .block2-img{
   border-radius: 10px;
-  
+  max-height: 250px;
+  min-height: 240px;
+  object-fit: fill;
 }
+
+
+
+/* .imgimg{
+  object-fit: scale-down;
+  height: 100%;
+
+} */
 
 .block2-labelsale::before,
 .block2-labelnew::before 
