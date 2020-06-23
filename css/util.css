@@ -3038,7 +3038,7 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	font-family: Montserrat-Regular;
 	font-size: 15px;
 	color: #111111;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 
 .s-textTimes{
@@ -3748,6 +3748,8 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 */
 .bg0-hov:hover {background-color: #e65540;}
 
+.bg1-hov:hover {background-color: #F2F5A9;}
+
 
 
 /*[  ]
@@ -3993,6 +3995,7 @@ EFFECT   EFFECT   EFFECT   EFFECT   EFFECT   EFFECT  EFFECT
 
 .hov3:hover {
 	color: #333333;
+	background-color: #F2F5A9;
 }
 
 .hov4:hover {
